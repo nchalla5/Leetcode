@@ -12,12 +12,9 @@ func canFinish(numCourses int, prerequisites [][]int) bool {
         }
     }
     completed := 0
-    // fmt.Println(edges)
     for len(queue) > 0 {
-        // fmt.Println(queue)
         pop := queue[len(queue)-1]
         queue = queue[:len(queue)-1]
-        // fmt.Println(pop)
         completed++
         for _, edge := range edges[pop] {
             indegree[edge]--
