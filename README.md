@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nchalla5/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nchalla5/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nchalla5/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
