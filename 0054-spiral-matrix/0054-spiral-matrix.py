@@ -5,7 +5,6 @@ class Solution:
         while bottom >= top and right >= left:
             while j <= right:
                 sol.append(matrix[i][j])
-                print(sol)
                 j += 1
             j -= 1
             top += 1
@@ -13,9 +12,7 @@ class Solution:
             if bottom < top or right < left:
                 return sol
             while i <= bottom:
-                print(i,j)
                 sol.append(matrix[i][j])
-                print(sol)
                 i += 1
             i -= 1
             right -= 1
@@ -24,7 +21,6 @@ class Solution:
                 return sol
             while j >= left:
                 sol.append(matrix[i][j])
-                print(sol)
                 j -= 1
             j += 1
             bottom -= 1
@@ -33,7 +29,6 @@ class Solution:
                 return sol
             while i >= top:
                 sol.append(matrix[i][j])
-                print(sol)
                 i -= 1
             i += 1
             left += 1
