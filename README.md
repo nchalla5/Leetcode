@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nchalla5/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nchalla5/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/nchalla5/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nchalla5/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nchalla5/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nchalla5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Tree
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nchalla5/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nchalla5/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -185,8 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
