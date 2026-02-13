@@ -10,7 +10,7 @@ class Solution:
         for c in range(len(nums), 0, -1):        # O(n)
             for x in buckets[c]:
                 res.append(x)
-                if len(res) == k:
-                    return res
+            if len(res) == k:
+                return res
         return res
         
