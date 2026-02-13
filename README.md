@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nchalla5/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nchalla5/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nchalla5/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
