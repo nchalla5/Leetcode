@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nchalla5/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
