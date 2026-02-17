@@ -13,10 +13,9 @@ class Solution:
         for i in range(len(piles)):
             if i + getCount(piles[i], piles[i:]) <= h:
                 break
-        left, right = 1, max(piles)
-        if i == 0:
-            left = 1
-            right = piles[i]
+        left, right = 1, piles[i]
+        if i != 0:
+            left = piles[i-1]
         ans = right
         while left <= right:
             mid = left + (right - left) // 2
