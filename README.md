@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nchalla5/Leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nchalla5/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0875-koko-eating-bananas](https://github.com/nchalla5/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nchalla5/Leetcode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nchalla5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nchalla5/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/nchalla5/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Trie
 |  |
 | ------- |
