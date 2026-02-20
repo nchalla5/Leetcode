@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nchalla5/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/nchalla5/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nchalla5/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 ## Data Stream
 |  |
