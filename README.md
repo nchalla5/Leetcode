@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nchalla5/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nchalla5/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nchalla5/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nchalla5/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nchalla5/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nchalla5/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nchalla5/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
