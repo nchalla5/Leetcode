@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nchalla5/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nchalla5/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nchalla5/Leetcode/tree/master/0051-n-queens) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nchalla5/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Graph Theory
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nchalla5/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/nchalla5/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nchalla5/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nchalla5/Leetcode/tree/master/0148-sort-list) |
@@ -263,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
