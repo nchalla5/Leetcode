@@ -1,7 +1,7 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         neg = []
-        pos = []
+        pos = deque()
         i = 0
         while i < len(asteroids):
             # print(i)
@@ -11,17 +11,17 @@ class Solution:
                     if -asteroids[i] < pos[j]:
                         break
                     elif -asteroids[i] == pos[j]:
-                        del pos[j]
+                        pos.pop()
                         break
                     else:
-                        del pos[j]
+                        pos.pop()
                     j -= 1
                 if j == -1:
                     neg.append(asteroids[i])
             else:
                 pos.append(asteroids[i])
             i += 1
-        return neg+pos
+        return neg+list(pos)
 
 
 
