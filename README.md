@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nchalla5/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nchalla5/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/nchalla5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nchalla5/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nchalla5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nchalla5/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/nchalla5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nchalla5/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nchalla5/Leetcode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nchalla5/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nchalla5/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/nchalla5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nchalla5/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nchalla5/Leetcode/tree/master/0079-word-search) |
 ## Simulation
