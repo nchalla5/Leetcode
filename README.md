@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nchalla5/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nchalla5/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nchalla5/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nchalla5/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nchalla5/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nchalla5/Leetcode/tree/master/0207-course-schedule) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nchalla5/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Topological Sort
 |  |
 | ------- |
