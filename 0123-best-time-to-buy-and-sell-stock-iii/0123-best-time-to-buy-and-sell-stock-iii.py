@@ -1,19 +1,21 @@
 class Solution:
-  def maxProfit(self, prices: List[int]) -> int:
-    if not prices:
-        return 0
-
-    # initialize variables for first buy, first sell, second buy, and second sell
-    buy1, buy2 = float('inf'), float('inf')
-    p1, p2 = 0, 0
-
-    # iterate over prices to update buy and sell values
-    for price in prices:
-        # update first buy and sell values
-        buy1 = min(buy1, price)
-        p1 = max(p1, price - buy1)
-        # update second buy and sell values
-        buy2 = min(buy2, price - p1)
-        p2 = max(p2, price - buy2)
-
-    return p2
+    def maxProfit(self, prices: List[int]) -> int:
+        # def find(i, buy, cap):
+        #     if cap == 0:
+        #         return 0
+        #     if i == len(prices):
+        #         return 0
+        #     if buy:
+        #         return max(find(i+1, 1, cap), find(i+1, 0, cap-1)+prices[i])
+        #     return max(find(i+1, 0, cap), find(i+1, 1, cap)-prices[i])
+        # return find(0,0,2)
+        n = len(prices)
+        dp = [[[0]*3 for _ in range(2)] for _ in range(n+1)]
+        for i in range(n-1,-1,-1):
+            for buy in range(1,-1,-1):
+                for cap in range(1,3):
+                    if buy:
+                        dp[i][buy][cap] = max(dp[i+1][buy][cap], dp[i+1][0][cap-1]+prices[i])
+                    else:
+                        dp[i][buy][cap] = max(dp[i+1][buy][cap], dp[i+1][1][cap]-prices[i])
+        return dp[0][0][2]
