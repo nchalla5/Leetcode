@@ -25,11 +25,7 @@ class Solution:
                             k -= 1
                     elif temp < 0:
                         j += 1
-                        while j <n and nums[j] == nums[j-1]:
-                            j += 1
                     else:
                         k -= 1
-                        while k>j and nums[k] == nums[k+1]:
-                            k -= 1
         return sol
 
