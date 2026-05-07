@@ -8,6 +8,8 @@ class Solution:
             if i != 0 and nums[i] == nums[i-1]:
                 continue
             else:
+                if nums[i] > 0:
+                    break
                 j = i+1
                 k = n - 1
                 while j<n and k>j:
