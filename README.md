@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nchalla5/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/nchalla5/Leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/nchalla5/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/nchalla5/Leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nchalla5/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/nchalla5/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nchalla5/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/nchalla5/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/nchalla5/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
