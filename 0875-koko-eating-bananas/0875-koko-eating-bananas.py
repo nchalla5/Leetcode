@@ -1,27 +1,22 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def getCount(n, arr):
-            count = 0
-            for pile in arr:
-                count += pile // n
-                if pile % n != 0:
-                    count += 1
-            return count
-        if h == len(piles):
-            return max(piles)
-        piles.sort()
-        for i in range(len(piles)):
-            if i + getCount(piles[i], piles[i:]) <= h:
-                break
-        left, right = 1, piles[i]
-        if i != 0:
-            left = piles[i-1]
+        left, right = 1, max(piles)
         ans = right
+
         while left <= right:
-            mid = left + (right - left) // 2
-            if  i + getCount(mid, piles[i:]) <= h:
+            mid = (left + right) // 2
+
+            # Compute total hours needed at speed mid
+            hours = 0
+            for pile in piles:
+                hours += (pile + mid - 1) // mid
+
+            # If feasible, try to find a smaller valid speed
+            if hours <= h:
                 ans = mid
                 right = mid - 1
             else:
+                # Otherwise, increase speed
                 left = mid + 1
+
         return ans
