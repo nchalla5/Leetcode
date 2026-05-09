@@ -1,34 +1,22 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
-    def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        def recur(root):
-            if not root:
-                return None
-            c1 = recur(root.left)
-            c2 = recur(root.right)
-            if c1 and c2:
-                s = root.val + max(c1[0], c2[0], 0)
-                d = root.val + c1[0] + c2[0]
-                p = max(c1 + c2)
-                return [s,d,p]
-            elif c1:
-                s = root.val + max(c1[0], 0)
-                d = root.val + max(c1[0], 0)
-                p = max(c1)
-                return [s,d,p]
-            elif c2:
-                s = root.val + max(c2[0], 0)
-                d = root.val + max(c2[0], 0)
-                p = max(c2)
-                return [s,d,p]
-            else:
-                s = root.val
-                d = root.val
-                p = root.val
-                return [s,d,p]
-        return max(recur(root))
+    def maxPathSum(self, root):
+        self.max_sum = float('-inf')
+
+        def dfs(node):
+            if not node:
+                return 0
+
+            # Ignore negative contributions
+            left_gain = max(0, dfs(node.left))
+            right_gain = max(0, dfs(node.right))
+
+            # Best path passing through current node
+            current_path = node.val + left_gain + right_gain
+
+            self.max_sum = max(self.max_sum, current_path)
+
+            # Return best single-side contribution upward
+            return node.val + max(left_gain, right_gain)
+
+        dfs(root)
+        return self.max_sum
