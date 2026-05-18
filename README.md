@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nchalla5/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nchalla5/Leetcode/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nchalla5/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nchalla5/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nchalla5/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nchalla5/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/nchalla5/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nchalla5/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/nchalla5/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nchalla5/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nchalla5/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nchalla5/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
