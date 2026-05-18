@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nchalla5/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/nchalla5/Leetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/nchalla5/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/nchalla5/Leetcode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nchalla5/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/nchalla5/Leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/nchalla5/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/nchalla5/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/nchalla5/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/nchalla5/Leetcode/tree/master/0973-k-closest-points-to-origin) |
