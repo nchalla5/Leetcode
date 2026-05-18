@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nchalla5/Leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/nchalla5/Leetcode/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/nchalla5/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/nchalla5/Leetcode/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nchalla5/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/nchalla5/Leetcode/tree/master/0686-repeated-string-match) |
 | [0981-time-based-key-value-store](https://github.com/nchalla5/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/nchalla5/Leetcode/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nchalla5/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nchalla5/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/nchalla5/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/nchalla5/Leetcode/tree/master/1396-design-underground-system) |
 ## Two Pointers
 |  |
 | ------- |
